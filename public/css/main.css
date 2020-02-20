@@ -1,0 +1,33 @@
+body {
+	background-color: #00367E; 
+}
+
+.form-auth {
+	margin-top: 20vh;
+}
+
+.form-auth input {
+	border-radius: 12px;
+}
+
+.btn-form {
+	background: white;
+	border-radius: 10px;
+	font-weight: bold;
+	color: #00367E;
+}
+
+.logged {
+	margin-top: 20vh;
+}
+
+.logged h3 {
+	color: #DC9F4E;
+	font-weight: bold;
+}
+
+.data {
+	color: white;
+	font-size: 20px;
+	line-height : 12px;
+}
